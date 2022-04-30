@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="5; url='url'" />
+  </head>
+  <body>
+    <p>You will be redirected shortly. If you do not by 30 seconds, <a href="url">Click Here. </a>.</p>
+  </body>
+</html>
